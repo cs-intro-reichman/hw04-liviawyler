@@ -19,7 +19,8 @@ public class ArrayOps {
             if (found == false) {
                 return i;
             }
-
+            }
+            return -1;
         }
 
      
